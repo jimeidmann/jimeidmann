@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimeidmann
+- 👋 Hi, I’m Jim Eidmann.
 - 👀 I’m interested in Enterprise Service Management and IT-Security.
 - 🌱 I’m currently learning IT-Security at the Wilhelm Büchner Hochschule.
 - 💞️ I’m looking to collaborate on Scripting and Software Development.
